@@ -1,0 +1,157 @@
+
+            .contentitem
+            {
+                flex: 3;
+                margin: auto;
+                width: 100%;
+            }
+                .contentitem p
+                {
+                    font-size: 1.1em;
+                    text-align: center;
+
+
+                }
+                .contentitem h2
+                {
+                    font-size: 2em;
+                    text-align: center;
+                }
+
+                .contentitem h3
+                {
+                    border-top: solid black;
+                    padding: 1em;
+                    font-size: 1.5em;
+                }
+               
+                .return
+                {
+                    font-weight: bold;
+                }
+                    .return a
+                    {
+                        border-radius: 1em;
+                        padding: 0.5em;
+                    }
+                    .return a:hover
+                    {
+                        background: #333;
+                        color: white;        
+                    }
+                .contentitem nav
+                {
+                    display: flex;
+                    flex-direction: column;
+                }
+                    .contentitem nav .Diapos
+                    {
+                        border: solid black;
+                        border-radius: 1em;
+                        height: auto;
+                        margin: auto;
+                        margin-bottom: 1em;   
+                    }
+                        .Diapos .description
+                        {
+                            border-bottom:solid black;
+                            margin: 0;
+                            padding: 1em;
+                        }
+
+                            
+
+                        .contentitem nav div.Diapos ul.diapo
+                        {
+                            display: flex;
+                            flex-direction: row;
+                            padding: 1em;
+                            flex-wrap: wrap;
+                            justify-content: center;
+                        }
+
+
+                            .contentitem nav div ul .item 
+                            {
+                                list-style: none;
+                                margin: 1em;
+                                border: solid black;
+                                border-radius: 1em;
+                                font-size: 1.4em;
+                                width: 20em;
+                                height: max-content;
+                            }
+                             .contentitem nav#pendents div ul .item, nav.navigation div ul .item
+                            {
+                            }
+                            #pendents div ul .item p, #others div ul .item p, .navigation div ul .item p
+                            {
+                                font-size: 0.9em;
+                            }
+                                .item a:hover
+                                {
+                                    background: #333;
+                                    color: white;
+
+                                } 
+                            
+                                    .Diapos #decosMurales img, #autres img, #decoMariage img, #piegesReves img, 
+                                    #rings img, #boucles img, #manchettes img, #bracelets img, #braceletsFins img, #lytotherapie img,
+                                    #porteBjx img, #Windows img
+                                    {
+                                        width: 90%;
+                                        border:solid black;
+                                        border-radius: 1em;
+                                        margin: auto;
+                                    }
+
+                                    #decosMurales, /*#autres,*/ #decoMariage, #piegesReves, 
+                                    #rings, #boucles, #manchettes, #bracelets, #braceletsFins, #lytotherapie,
+                                    #porteBjx, #Windows
+                                    {
+                                        background-size: contain;
+                                        text-align: center;
+                                        display: flex;
+                                        flex-direction: row;
+                                    }
+                    
+                                       
+
+
+
+
+/************************************************************
+TABLETTE
+*************************************************************/
+@media (max-width: 1281px) {
+    .Diapos ul
+    {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+
+        .contentitem nav div ul .item
+        {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 1em;
+            margin-bottom: 1em;
+        }
+        .contentitem nav div.Diapos ul.diapo 
+        {
+            flex-direction: column;
+        }
+
+        .contentitem p
+        {
+            font-size: 1.6em;
+            margin: 0;
+        }
+        .navigation div ul .item p 
+        {
+           font-size: 1.2em;
+        }
+}
+}

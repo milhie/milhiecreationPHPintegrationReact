@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/css/main.4b2999f1.chunk.css",
+    "main.js": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/main.5ebc5889.chunk.js",
+    "main.js.map": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/main.5ebc5889.chunk.js.map",
+    "runtime-main.js": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/runtime-main.c60b0a2f.js",
+    "runtime-main.js.map": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/runtime-main.c60b0a2f.js.map",
+    "static/css/2.d4afeea5.chunk.css": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/css/2.d4afeea5.chunk.css",
+    "static/js/2.ce1f2440.chunk.js": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/2.ce1f2440.chunk.js",
+    "static/js/2.ce1f2440.chunk.js.map": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/2.ce1f2440.chunk.js.map",
+    "index.html": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/index.html",
+    "precache-manifest.b335b381fda329457af9da509cf1c80f.js": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/precache-manifest.b335b381fda329457af9da509cf1c80f.js",
+    "service-worker.js": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/service-worker.js",
+    "static/css/2.d4afeea5.chunk.css.map": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/css/2.d4afeea5.chunk.css.map",
+    "static/css/main.4b2999f1.chunk.css.map": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/css/main.4b2999f1.chunk.css.map",
+    "static/js/2.ce1f2440.chunk.js.LICENSE.txt": "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/static/js/2.ce1f2440.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c60b0a2f.js",
+    "static/css/2.d4afeea5.chunk.css",
+    "static/js/2.ce1f2440.chunk.js",
+    "static/css/main.4b2999f1.chunk.css",
+    "static/js/main.5ebc5889.chunk.js"
+  ]
+}

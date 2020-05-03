@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/precache-manifest.b335b381fda329457af9da509cf1c80f.js"
+  "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/precache-manifest.1b913ffd1973c251f0ab1403ff2e6e65.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("http://localhost/Milhie/GIT/milhiecreationPHPintegrationReact/build/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
+  blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

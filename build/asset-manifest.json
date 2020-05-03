@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/css/main.9f8e38fa.chunk.css",
-    "main.js": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/js/main.3bba3d20.chunk.js",
-    "main.js.map": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/js/main.3bba3d20.chunk.js.map",
-    "runtime~main.js": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/js/runtime~main.e8968275.js",
-    "runtime~main.js.map": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/js/runtime~main.e8968275.js.map",
-    "static/css/2.015a1ddd.chunk.css": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/css/2.015a1ddd.chunk.css",
-    "static/js/2.baf05ad6.chunk.js": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/js/2.baf05ad6.chunk.js",
-    "static/js/2.baf05ad6.chunk.js.map": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/js/2.baf05ad6.chunk.js.map",
-    "index.html": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/index.html",
-    "precache-manifest.1b913ffd1973c251f0ab1403ff2e6e65.js": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/precache-manifest.1b913ffd1973c251f0ab1403ff2e6e65.js",
-    "service-worker.js": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/service-worker.js",
-    "static/css/2.015a1ddd.chunk.css.map": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/css/2.015a1ddd.chunk.css.map",
-    "static/css/main.9f8e38fa.chunk.css.map": "https://php.milhie.fr/build/milhiecreationPHPintegrationReact/build/static/css/main.9f8e38fa.chunk.css.map"
-  }
+    "main.css": "https://php.milhie.fr/build/static/css/main.b3b16e1b.chunk.css",
+    "main.js": "https://php.milhie.fr/build/static/js/main.0043b225.chunk.js",
+    "main.js.map": "https://php.milhie.fr/build/static/js/main.0043b225.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/build/static/js/runtime-main.10088122.js",
+    "runtime-main.js.map": "https://php.milhie.fr/build/static/js/runtime-main.10088122.js.map",
+    "static/css/2.ed902ccc.chunk.css": "https://php.milhie.fr/build/static/css/2.ed902ccc.chunk.css",
+    "static/js/2.124a1c39.chunk.js": "https://php.milhie.fr/build/static/js/2.124a1c39.chunk.js",
+    "static/js/2.124a1c39.chunk.js.map": "https://php.milhie.fr/build/static/js/2.124a1c39.chunk.js.map",
+    "index.html": "https://php.milhie.fr/build/index.html",
+    "precache-manifest.a0119b7c7281a1b5aadd2f5b7e214896.js": "https://php.milhie.fr/build/precache-manifest.a0119b7c7281a1b5aadd2f5b7e214896.js",
+    "service-worker.js": "https://php.milhie.fr/build/service-worker.js",
+    "static/css/2.ed902ccc.chunk.css.map": "https://php.milhie.fr/build/static/css/2.ed902ccc.chunk.css.map",
+    "static/css/main.b3b16e1b.chunk.css.map": "https://php.milhie.fr/build/static/css/main.b3b16e1b.chunk.css.map",
+    "static/js/2.124a1c39.chunk.js.LICENSE.txt": "https://php.milhie.fr/build/static/js/2.124a1c39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10088122.js",
+    "static/css/2.ed902ccc.chunk.css",
+    "static/js/2.124a1c39.chunk.js",
+    "static/css/main.b3b16e1b.chunk.css",
+    "static/js/main.0043b225.chunk.js"
+  ]
 }

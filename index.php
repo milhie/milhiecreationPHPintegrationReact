@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="description" content="site milhie creation, presentation de bijoux, arbres de vie, decorations en fil d'aluminium, perles, pierres de litotherapie. Tout est fait main par moi-même.">    
-    <title>Milhie Création bijoux, décoration en fil d'aluminium.</title>    
+    <title>Milhie Création bijoux, décoration en fil d'aluminium.</title> 
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />   
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="side-menu.css">
     <link rel="stylesheet" type="text/css" href="styleAccueil.css">

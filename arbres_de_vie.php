@@ -13,6 +13,8 @@
         <link rel="shortcut icon" href="https://php.milhie.fr/build/favicon.ico">
         <link href="https://php.milhie.fr/build/static/css/2.015a1ddd.chunk.css" rel="stylesheet">
         <link href="https://php.milhie.fr/build/static/css/main.9f8e38fa.chunk.css" rel="stylesheet">
+            <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />   
+
         <title>MilhieCréation arbres de vie</title>
 
     </head>

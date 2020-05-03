@@ -12,6 +12,10 @@
 
 
                 }
+                .contentitem h1
+                {
+                    font-size: 3em;
+                }
                 .contentitem h2
                 {
                     font-size: 2em;

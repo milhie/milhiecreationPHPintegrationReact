@@ -4,7 +4,7 @@
 .react-slideshow-container .nav.disabled span{border-color:#666}
 .react-slideshow-container .nav:hover{background:#fff;color:#666}
 .react-slideshow-container .nav.disabled:hover{cursor:not-allowed}
-.react-slideshow-container .nav:first-of-type{margin-right:-7em;border-right:none;border-top:none}
+.react-slideshow-container .nav:first-of-type{margin-right:-4em;border-right:none;border-top:none}
 .react-slideshow-container .nav:first-of-type span{margin-left:5px;border-right:none;border-top:none}
 .react-slideshow-container .nav:last-of-type{margin-left:-30px}
 .react-slideshow-container .nav:last-of-type span{margin-right:5px;border-left:none;border-bottom:none}

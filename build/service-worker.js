@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://php.milhie.fr/build/precache-manifest.1175ba264707b111ac393cb0d5e4f56d.js"
+  "https://php.milhie.fr/build/precache-manifest.dba596fee0821e50964ef632890481f7.js"
 );
 
 self.addEventListener('message', (event) => {

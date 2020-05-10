@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildtest/static/css/main.10d0a746.chunk.css",
+    "main.js": "https://php.milhie.fr/buildtest/static/js/main.861658ba.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildtest/static/js/main.861658ba.chunk.js.map",
+    "runtime~main.js": "https://php.milhie.fr/buildtest/static/js/runtime~main.37f01e6d.js",
+    "runtime~main.js.map": "https://php.milhie.fr/buildtest/static/js/runtime~main.37f01e6d.js.map",
+    "static/js/2.910aa180.chunk.js": "https://php.milhie.fr/buildtest/static/js/2.910aa180.chunk.js",
+    "static/js/2.910aa180.chunk.js.map": "https://php.milhie.fr/buildtest/static/js/2.910aa180.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildtest/index.html",
+    "precache-manifest.b93b93f3664b060ea7b3c0cd81c19b2e.js": "https://php.milhie.fr/buildtest/precache-manifest.b93b93f3664b060ea7b3c0cd81c19b2e.js",
+    "service-worker.js": "https://php.milhie.fr/buildtest/service-worker.js",
+    "static/css/main.10d0a746.chunk.css.map": "https://php.milhie.fr/buildtest/static/css/main.10d0a746.chunk.css.map"
+  }
+}

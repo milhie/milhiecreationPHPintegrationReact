@@ -1,4 +1,4 @@
-.App{width:95vw;font-family:sans-serif;display:flex;flex-direction:column;align-items:center;justify-content:center;height:auto}
+.App{width:95vw;font-family:inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;height:auto}
 .contain{border:solid #333;border-bottom-right-radius:1em;border-bottom-left-radius:1em}
 .contBtn{display:flex;flex-direction:row;font-size:.8em;margin:1em}
 .contBtn .active{border:solid #000}
@@ -7,7 +7,7 @@
 .container{width:auto}
 .cont{margin-top:1em}
 .onglets.active{background:#f8f8f8;color:#333;box-shadow:5px 3px 7px}
-.Slideshow{font-family:sans-serif;display:flex;align-items:center;justify-content:center}
+.Slideshow{font-family:inherit;display:flex;align-items:center;justify-content:center}
 .containerSlide{width:35em;border:solid #000;border-radius:1em;margin:auto auto 1em}
 .active{margin:auto}
 .each-slide{width:25em;margin:auto}

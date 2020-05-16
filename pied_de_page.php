@@ -29,15 +29,19 @@
         </div>
         </div>
         <div id="ma_page_facebook" class="footerContentItem"> 
-        
-            <div id="fb-root"></div>
+        	<div>
+			<h1><a href="https://www.facebook.com/Milhiecreation"> Ma page facebook </a></h1>
+			<p><a href="https://www.facebook.com/Milhiecreation/">Milhie Création</a></p>
+			
+        	</div>
+           <!-- <div id="fb-root"></div>
         
             <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v6.0"></script>
 
             <h1><a href="https://www.facebook.com/Milhiecreation"> Ma page facebook </a></h1>
 
             <div class="fb-page" data-href="https://www.facebook.com/Milhiecreation/" data-tabs="timeline" data-width="" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Milhiecreation/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Milhiecreation/">Milhie Création</a></blockquote></div>
-                        
+                        -->
         </div>
     
         <div id="ou_acheter" class="footerContentItem">

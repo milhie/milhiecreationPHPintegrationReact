@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildWebp/static/css/main.5eaaa798.chunk.css",
+    "main.js": "https://php.milhie.fr/buildWebp/static/js/main.5f685467.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildWebp/static/js/main.5f685467.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildWebp/static/js/runtime-main.914e2aff.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildWebp/static/js/runtime-main.914e2aff.js.map",
+    "static/js/2.13923851.chunk.js": "https://php.milhie.fr/buildWebp/static/js/2.13923851.chunk.js",
+    "static/js/2.13923851.chunk.js.map": "https://php.milhie.fr/buildWebp/static/js/2.13923851.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildWebp/index.html",
+    "precache-manifest.89e16458ba09cc5e9480161d42d267f2.js": "https://php.milhie.fr/buildWebp/precache-manifest.89e16458ba09cc5e9480161d42d267f2.js",
+    "service-worker.js": "https://php.milhie.fr/buildWebp/service-worker.js",
+    "static/css/main.5eaaa798.chunk.css.map": "https://php.milhie.fr/buildWebp/static/css/main.5eaaa798.chunk.css.map",
+    "static/js/2.13923851.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildWebp/static/js/2.13923851.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.914e2aff.js",
+    "static/js/2.13923851.chunk.js",
+    "static/css/main.5eaaa798.chunk.css",
+    "static/js/main.5f685467.chunk.js"
+  ]
+}

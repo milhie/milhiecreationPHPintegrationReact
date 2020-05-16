@@ -77,29 +77,29 @@
 
 .item#bijoux
 {
-    background: url(images/bague.jpeg.webp) center no-repeat;
+    background: url(images/bague.jpeg) center no-repeat;
 }
 .item#arbres_de_vie
 {
-    background: url(images/arbres/arbre01.jpeg.webp) center no-repeat;
+    background: url(images/arbres/arbre01.jpeg) center no-repeat;
 }
 
 .item#decorations_murales_chambre_enfant
 {
-    background: url(images/deco_tymeo.jpeg.webp) center no-repeat;
+    background: url(images/deco_tymeo.jpeg) center no-repeat;
 }
 .item#decos_mariage
 {
-    background: url(images/decos_mariage.jpeg.webp) center no-repeat;
+    background: url(images/decos_mariage.jpeg) center no-repeat;
 }
 .item#pieges_reves
 {
-    background: url(images/piege.jpeg.webp) center no-repeat;
+    background: url(images/piege.jpeg) center no-repeat;
 }
 
 .item#autresDecos
 {
-    background: url(images/autres.jpeg.webp) center no-repeat;
+    background: url(images/autres.jpeg) center no-repeat;
 }
 
 #index .item
@@ -113,32 +113,32 @@ BIJOUX.PHP
 
 #bracelets_manchettes
 {
-    background: url(images/bracelet259px.jpeg.webp) center no-repeat;    
+    background: url(images/bracelet259px.jpeg) center no-repeat;    
 }
 
 #bagues
 {   
-    background: url(images/bague259px.jpeg.webp) center no-repeat;   
+    background: url(images/bague259px.jpeg) center no-repeat;   
 }
 
 #boucles
 {   
-    background: url(images/boucles.jpeg.webp) center no-repeat;
+    background: url(images/boucles.jpeg) center no-repeat;
 }
 
 #bijoux_mariage
 {   
-    background: url(images/bijoux_mariage366.jpeg.webp) center no-repeat;
+    background: url(images/bijoux_mariage366.jpeg) center no-repeat;
 }
 
 #colliers
 {   
-    background: url(images/collier.jpeg.webp) center no-repeat;
+    background: url(images/collier.jpeg) center no-repeat;
 }
 
 #pendentifs
 {
-    background: url(images/pendentifs.jpeg.webp) center no-repeat;
+    background: url(images/pendentifs.jpeg) center no-repeat;
 }
 
 #bjx .item

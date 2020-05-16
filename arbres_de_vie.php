@@ -10,6 +10,7 @@
         <link rel="stylesheet" type="text/css" href="stylebase.css">
         <link rel="shortcut icon" href="images/favicon.ico">
         <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
         <link rel="manifest" href="https://php.milhie.fr/buildB/manifest.json"><link href="https://php.milhie.fr/buildB/static/css/main.10d0a746.chunk.css" rel="stylesheet">
 
         <title>MilhieCréation arbres de vie</title>

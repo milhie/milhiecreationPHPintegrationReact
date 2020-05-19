@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="side-menu.css">
     <link rel="stylesheet" type="text/css" href="styleAccueil.css">
     <link rel="stylesheet" type="text/css" href="stylebase.css">
-    <link rel="stylesheet" type="text/css" href="stylediapo.css">
+
 
 </head>
 

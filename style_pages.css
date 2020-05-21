@@ -148,10 +148,13 @@ TABLETTE
         {
             flex-direction: column;
         }
-
+	.contentitem h2
+	{
+		font-size:4em;
+	}
         .contentitem p
         {
-            font-size: 1.6em;
+            font-size: 3em;
             margin: 0;
         }
         .navigation div ul .item p 

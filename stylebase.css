@@ -462,7 +462,7 @@ SMARTPHONE
 
     .content p
     {
-        font-size: 2em;
+        font-size: 3em;
         text-align: center;
     }
     nav ul .item
@@ -472,7 +472,7 @@ SMARTPHONE
     }
     .content .item a
     {
-        font-size: 1.5em;
+        font-size: 2.5em;
     }
     
 
@@ -495,12 +495,13 @@ SMARTPHONE
         }
         footer p
         {
-            font-size: 1.5em;
+            font-size: 2em;
         }
         footer a
         {
             position: relative;
             top: -0.5em;
+            font-size:2em;
         }
 
         #moi 

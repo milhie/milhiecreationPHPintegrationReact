@@ -17,6 +17,10 @@
                     font-size: 2em;
                     margin: 0;
                 }
+                	.contentitem .onglets.active h1 /*taille de la police de l'onglet actif augmenté (ne fonctionnait pas en le mettant dans le css de l'appli react*/
+                	{
+                		font-size: 3em;
+                	}
                 .contentitem h2
                 {
                     font-size: 2em;

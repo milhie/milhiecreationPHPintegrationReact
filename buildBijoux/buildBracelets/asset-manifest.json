@@ -3,19 +3,19 @@
     "main.css": "https://php.milhie.fr/buildBijoux/buildBracelets/static/css/main.0c60a1b5.chunk.css",
     "main.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/main.0f865d05.chunk.js",
     "main.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/main.0f865d05.chunk.js.map",
-    "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/runtime-main.0e2c5edf.js",
-    "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/runtime-main.0e2c5edf.js.map",
-    "static/js/2.a5a60856.chunk.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.a5a60856.chunk.js",
-    "static/js/2.a5a60856.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.a5a60856.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3721b18ed38702b85a42f1261ca0ee2f.js": "/precache-manifest.3721b18ed38702b85a42f1261ca0ee2f.js",
-    "service-worker.js": "/service-worker.js",
+    "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/runtime-main.e35105f0.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/runtime-main.e35105f0.js.map",
+    "static/js/2.7ecb3e64.chunk.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.7ecb3e64.chunk.js",
+    "static/js/2.7ecb3e64.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.7ecb3e64.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildBijoux/buildBracelets/index.html",
+    "precache-manifest.f9349ec4ed9c334d5dcf6edf5d2408bc.js": "https://php.milhie.fr/buildBijoux/buildBracelets/precache-manifest.f9349ec4ed9c334d5dcf6edf5d2408bc.js",
+    "service-worker.js": "https://php.milhie.fr/buildBijoux/buildBracelets/service-worker.js",
     "static/css/main.0c60a1b5.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/css/main.0c60a1b5.chunk.css.map",
-    "static/js/2.a5a60856.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.a5a60856.chunk.js.LICENSE.txt"
+    "static/js/2.7ecb3e64.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.7ecb3e64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e2c5edf.js",
-    "static/js/2.a5a60856.chunk.js",
+    "static/js/runtime-main.e35105f0.js",
+    "static/js/2.7ecb3e64.chunk.js",
     "static/css/main.0c60a1b5.chunk.css",
     "static/js/main.0f865d05.chunk.js"
   ]

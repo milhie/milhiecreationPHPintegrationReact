@@ -13,7 +13,7 @@
 
             <ul class="pure-menu-list">
                 <li class="pure-menu-item"><a href="index.php" class="pure-menu-link">Accueil</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Bijoux</a></li>
+                <li class="pure-menu-item"><a href="bijoux.php" class="pure-menu-link">Bijoux</a></li>
                 <li class="pure-menu-item"><a href="arbres_de_vie.php" class="pure-menu-link">Arbres de vie</a></li>
                 <li class="pure-menu-item"><a href="#" class="pure-menu-link">Décorations murales</a></li>
                 <li class="pure-menu-item"><a href="#" class="pure-menu-link">Décorations de mariage</a></li>

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/css/main.a268af6b.chunk.css",
+    "main.js": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/main.ccd97868.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/main.ccd97868.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/runtime-main.17b84076.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/runtime-main.17b84076.js.map",
+    "static/js/2.cfdeb15c.chunk.js": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/2.cfdeb15c.chunk.js",
+    "static/js/2.cfdeb15c.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/2.cfdeb15c.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildBijoux/buildPendentifs/index.html",
+    "precache-manifest.599125b4969555bfd01bf70bf681dd91.js": "https://php.milhie.fr/buildBijoux/buildPendentifs/precache-manifest.599125b4969555bfd01bf70bf681dd91.js",
+    "service-worker.js": "https://php.milhie.fr/buildBijoux/buildPendentifs/service-worker.js",
+    "static/css/main.a268af6b.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/css/main.a268af6b.chunk.css.map",
+    "static/js/2.cfdeb15c.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/2.cfdeb15c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17b84076.js",
+    "static/js/2.cfdeb15c.chunk.js",
+    "static/css/main.a268af6b.chunk.css",
+    "static/js/main.ccd97868.chunk.js"
+  ]
+}

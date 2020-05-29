@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://php.milhie.fr/buildBijoux/buildPendentifs/precache-manifest.599125b4969555bfd01bf70bf681dd91.js"
+  "https://php.milhie.fr/buildBijoux/buildPendentifs/precache-manifest.15ab840857d296b4efb36624ae480a7b.js"
 );
 
 self.addEventListener('message', (event) => {

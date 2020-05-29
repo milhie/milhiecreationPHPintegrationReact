@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c7fea4f5bc2bcc47850552759590cbd",
+    "revision": "012cde5403f47e650abb9f92f6368028",
     "url": "https://php.milhie.fr/buildBijoux/buildPendentifs/index.html"
   },
   {
-    "revision": "0ff977d2fdb2e99b0c04",
-    "url": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/css/main.a268af6b.chunk.css"
+    "revision": "53df388f794ef5620f68",
+    "url": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/css/main.d9ad3749.chunk.css"
   },
   {
     "revision": "cb0e90f1813fccce6320",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/2.cfdeb15c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ff977d2fdb2e99b0c04",
-    "url": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/main.ccd97868.chunk.js"
+    "revision": "53df388f794ef5620f68",
+    "url": "https://php.milhie.fr/buildBijoux/buildPendentifs/static/js/main.14d774ef.chunk.js"
   },
   {
     "revision": "c859cec69d292b4a179b",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://php.milhie.fr/buildBijoux/buildBracelets/static/css/main.0c60a1b5.chunk.css",
-    "main.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/main.0f865d05.chunk.js",
-    "main.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/main.0f865d05.chunk.js.map",
+    "main.css": "https://php.milhie.fr/buildBijoux/buildBracelets/static/css/main.d7b6ef31.chunk.css",
+    "main.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/main.918ff347.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/main.918ff347.chunk.js.map",
     "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/runtime-main.e35105f0.js",
     "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/runtime-main.e35105f0.js.map",
     "static/js/2.7ecb3e64.chunk.js": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.7ecb3e64.chunk.js",
     "static/js/2.7ecb3e64.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.7ecb3e64.chunk.js.map",
     "index.html": "https://php.milhie.fr/buildBijoux/buildBracelets/index.html",
-    "precache-manifest.f9349ec4ed9c334d5dcf6edf5d2408bc.js": "https://php.milhie.fr/buildBijoux/buildBracelets/precache-manifest.f9349ec4ed9c334d5dcf6edf5d2408bc.js",
+    "precache-manifest.b77505ec1bca7a5ed39814ca29a530a7.js": "https://php.milhie.fr/buildBijoux/buildBracelets/precache-manifest.b77505ec1bca7a5ed39814ca29a530a7.js",
     "service-worker.js": "https://php.milhie.fr/buildBijoux/buildBracelets/service-worker.js",
-    "static/css/main.0c60a1b5.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/css/main.0c60a1b5.chunk.css.map",
+    "static/css/main.d7b6ef31.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildBracelets/static/css/main.d7b6ef31.chunk.css.map",
     "static/js/2.7ecb3e64.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildBracelets/static/js/2.7ecb3e64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e35105f0.js",
     "static/js/2.7ecb3e64.chunk.js",
-    "static/css/main.0c60a1b5.chunk.css",
-    "static/js/main.0f865d05.chunk.js"
+    "static/css/main.d7b6ef31.chunk.css",
+    "static/js/main.918ff347.chunk.js"
   ]
 }

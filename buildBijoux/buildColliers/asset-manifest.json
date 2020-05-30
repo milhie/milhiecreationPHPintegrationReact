@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildBijoux/buildColliers/static/css/main.423531c7.chunk.css",
+    "main.js": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/main.ec3a2a95.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/main.ec3a2a95.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/runtime-main.24977d34.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/runtime-main.24977d34.js.map",
+    "static/js/2.300f18f6.chunk.js": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/2.300f18f6.chunk.js",
+    "static/js/2.300f18f6.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/2.300f18f6.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildBijoux/buildColliers/index.html",
+    "precache-manifest.dafe27080ed8726359551b25c710fcf3.js": "https://php.milhie.fr/buildBijoux/buildColliers/precache-manifest.dafe27080ed8726359551b25c710fcf3.js",
+    "service-worker.js": "https://php.milhie.fr/buildBijoux/buildColliers/service-worker.js",
+    "static/css/main.423531c7.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildColliers/static/css/main.423531c7.chunk.css.map",
+    "static/js/2.300f18f6.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildColliers/static/js/2.300f18f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24977d34.js",
+    "static/js/2.300f18f6.chunk.js",
+    "static/css/main.423531c7.chunk.css",
+    "static/js/main.ec3a2a95.chunk.js"
+  ]
+}

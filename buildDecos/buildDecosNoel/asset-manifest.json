@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/css/main.06db0548.chunk.css",
+    "main.js": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/main.e0d9efab.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/main.e0d9efab.chunk.js.map",
+    "runtime~main.js": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/runtime~main.3590671b.js",
+    "runtime~main.js.map": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/runtime~main.3590671b.js.map",
+    "static/js/2.ee1196fb.chunk.js": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/2.ee1196fb.chunk.js",
+    "static/js/2.ee1196fb.chunk.js.map": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/2.ee1196fb.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildDecos/buildDecosNoel/index.html",
+    "precache-manifest.ce38e40557a752986bd8a70f8a6af2c9.js": "https://php.milhie.fr/buildDecos/buildDecosNoel/precache-manifest.ce38e40557a752986bd8a70f8a6af2c9.js",
+    "service-worker.js": "https://php.milhie.fr/buildDecos/buildDecosNoel/service-worker.js",
+    "static/css/main.06db0548.chunk.css.map": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/css/main.06db0548.chunk.css.map"
+  }
+}

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://php.milhie.fr/buildDecos/buildDecosNoel/precache-manifest.551509680f6a1ff380f1dbf95c11a67d.js"
+  "https://php.milhie.fr/buildDecos/buildDecosNoel/precache-manifest.8909f0bb8dd0a2220db2e21851730456.js"
 );
 
 self.addEventListener('message', (event) => {

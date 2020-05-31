@@ -5,7 +5,7 @@
         
     <meta charset="utf-8">
     <meta name="description" content="site milhie creation, presentation de bijoux, arbres de vie, decorations en fil d'aluminium, perles, pierres de litotherapie. Tout est fait main par moi-même.">  
-    <title>Milhie Création colliers et pendentifs</title>
+    <title>Milhie Création colliers</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="side-menu.css">
     <link rel="stylesheet" type="text/css" href="style_pages.css">

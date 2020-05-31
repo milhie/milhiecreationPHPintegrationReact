@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/css/main.ebb2b7e1.chunk.css",
+    "main.js": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/js/main.68b7e67b.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/js/main.68b7e67b.chunk.js.map",
+    "runtime~main.js": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/js/runtime~main.3d10b78c.js",
+    "runtime~main.js.map": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/js/runtime~main.3d10b78c.js.map",
+    "static/js/2.ddc49872.chunk.js": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/js/2.ddc49872.chunk.js",
+    "static/js/2.ddc49872.chunk.js.map": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/js/2.ddc49872.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildDecos/buildAutresDecos/index.html",
+    "precache-manifest.8ba426f8938edbf0f89c75984f40a63f.js": "https://php.milhie.fr/buildDecos/buildAutresDecos/precache-manifest.8ba426f8938edbf0f89c75984f40a63f.js",
+    "service-worker.js": "https://php.milhie.fr/buildDecos/buildAutresDecos/service-worker.js",
+    "static/css/main.ebb2b7e1.chunk.css.map": "https://php.milhie.fr/buildDecos/buildAutresDecos/static/css/main.ebb2b7e1.chunk.css.map"
+  }
+}

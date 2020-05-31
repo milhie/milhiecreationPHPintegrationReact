@@ -45,7 +45,7 @@
                     </header>
 
                     <nav class="navigation">
-                        <div class="Diapos">
+                        <div>
                             <header class="description">
                                 <h2>Décorations de Noël</h2>
                                 <p>Fait main en fil d'aluminium et perles</p>

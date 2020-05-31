@@ -11,7 +11,7 @@
         <link rel="shortcut icon" href="images/favicon.ico">
         <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
-        <title>MilhieCréation bijoux</title>
+        <title>Milhie Création bijoux</title>
     </head>
 
     <body>

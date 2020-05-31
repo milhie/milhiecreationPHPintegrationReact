@@ -104,11 +104,11 @@
 
                                 } 
                             
-                                    .Diapos #decosMurales img, #autres img, #decoMariage img, #piegesReves img, 
+                                    #decosMurales img, #autres img, #decoMariage img, #piegesReves img, 
                                     #rings img, #boucles img, #manchettes img, #bracelets img, #braceletsFins img, #lytotherapie img,
                                     #porteBjx img, #Windows img
                                     {
-                                        width: 90%;
+                                        width: 35em;
                                         border:solid black;
                                         border-radius: 1em;
                                         margin: auto;
@@ -122,6 +122,7 @@
                                         text-align: center;
                                         display: flex;
                                         flex-direction: row;
+                                        list-style: none;
                                     }
                     
                                        

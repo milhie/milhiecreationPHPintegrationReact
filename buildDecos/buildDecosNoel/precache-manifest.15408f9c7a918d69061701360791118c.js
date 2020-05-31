@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43dc112ca2339f237fe753054e98a307",
+    "revision": "0036ad22883d3e5402dbbb9253dd8996",
     "url": "https://php.milhie.fr/buildDecos/buildDecosNoel/index.html"
   },
   {
-    "revision": "9ea284b3dadbe45f2e19",
+    "revision": "ec7992f9097e43ad6e03",
     "url": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/css/main.06db0548.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/2.ee1196fb.chunk.js"
   },
   {
-    "revision": "9ea284b3dadbe45f2e19",
-    "url": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/main.e0d9efab.chunk.js"
+    "revision": "ec7992f9097e43ad6e03",
+    "url": "https://php.milhie.fr/buildDecos/buildDecosNoel/static/js/main.f1eb9daa.chunk.js"
   },
   {
     "revision": "52b38aa9779f4b96a597",

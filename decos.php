@@ -61,53 +61,65 @@
                             <ul class="diapo" id="decosMurales">
                                 <li class="item">
                                     <p><span>Dinosaures:</span></p> 
-                                    <p>3O€<br/><img src="images/decosMurales/decoDino1.jpeg" alt="Décoration murale dinosaures"></p>
+                                    <p>3O€</p>
+                                    <img src="images/decosMurales/decoDino1.jpeg" alt="Décoration murale dinosaures"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Dinosaures:</span></p> 
-                                    <p>3O€<br/><img src="images/decosMurales/decoDino2.jpeg" alt="Décoration murale dinosaures"></p>
+                                    <p>3O€</p>
+                                    <img src="images/decosMurales/decoDino2.jpeg" alt="Décoration murale dinosaures"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Chateau de princesse:</span></p> 
-                                    <p>30€<br/><img src="images/decosMurales/decoChateauPrincess.jpeg" alt="decoration murale chateau de princesse"></p>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/decoChateauPrincess.jpeg" alt="decoration murale chateau de princesse"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Chateau fort:</span></p> 
-                                    <p>30€<br/><img src="images/decosMurales/decoChateauFort.jpeg" alt="decoration murale chateau fort"></p>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/decoChateauFort.jpeg" alt="decoration murale chateau fort"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Camion de pompiers:</span></p> 
-                                    <p>25€<br/><img src="images/decosMurales/decoPompier.jpeg" alt="decoration murale Camion de pompiers"></p>
+                                    <p>25€</p>
+                                    <img src="images/decosMurales/decoPompier.jpeg" alt="decoration murale Camion de pompiers"/>
                                 </li>
                          
                                 <li class="item">
                                     <p><span>Nuage:</span></p> 
-                                    <p>20€<br/><img src="images/decosMurales/decoNuage.png" alt="decoration murale nuage"></p>
+                                    <p>20€</p>
+                                    <img src="images/decosMurales/decoNuage.png" alt="decoration murale nuage"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Bateau pirates:</span></p> 
-                                    <p>30€<br/><img src="images/decosMurales/bateauPirate.jpeg" alt="decoration murale bateau pirate"></p>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/bateauPirate.jpeg" alt="decoration murale bateau pirate"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Loup:</span></p> 
-                                    <p>30€<br/><img src="images/decosMurales/loup.png" alt="decoration murale loup"></p>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/loup.png" alt="decoration murale loup"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Chat dans les étoiles:</span></p> 
-                                    <p>30€<br/><img src="images/decosMurales/chat.jpeg" alt=" décoration murale chat dans les étoiles"></p>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/chat.jpeg" alt=" décoration murale chat dans les étoiles"/>
                                 </li>
                          
                                 <li class="item">
                                     <p><span>Vélo:</span> </p>
-                                    <p>30€<br/><img src="images/decosMurales/velo.jpeg" alt="Décoration murale Vélo"></p>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/velo.jpeg" alt="Décoration murale Vélo"/>
                                 </li>
                                 <li class="item">
                                     <p><span>Coeur:</span><br/>déco de porte: </p>
-                                    <p>15€<br/><img src="images/decosMurales/coeur.jpeg" alt="decoration murale coeur"></p>
+                                    <p>15€</p>
+                                    <img src="images/decosMurales/coeur.jpeg" alt="decoration murale coeur"/>
                                 </li>
                                 <li class="item">
                                     <p><span>"fanArt" buzz l'éclair:</span><p/>
-                                    <p>30€<br/><img src="images/decosMurales/buzz.png" alt="decoration murale fanart buzz l'eclair"></p></li>
+                                    <p>30€</p>
+                                    <img src="images/decosMurales/buzz.png" alt="decoration murale fanart buzz l'eclair"/></li>
                                 <li class="item">
                                     <p></p>
                                 </li>

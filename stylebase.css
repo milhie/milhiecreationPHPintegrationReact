@@ -55,7 +55,9 @@ body
 {
     width: auto;
     background: url('images/fond_jaune.png');
-    font-family: 'Calligraffitti', cursive, sans-serif;
+    /*font-family: 'Calligraffitti', cursive, sans-serif; fonts google*/
+    font-family: 'sf_burlington_scriptregular', Arial, sans-serif;/*fonts ajoutés poar utilisateur*/
+    font-size: 0.8em;
     color: #181818;
     display: flex;
     flex-direction: column;
@@ -116,7 +118,8 @@ body p
                     display: flex;
                     flex-direction: column;
                    /* font-family: 'Dancing Script', cursive, serif;*/
-                    font-family: 'Alex Brush', cursive;
+                    /*font-family: 'Alex Brush', cursive;*/ /*googles fonts*/
+                    font-family: 'alex_brushregular', serif;/*fonts utlisateur*/
                     font-weight: normal;
                     border-radius: 0.5em;
                     box-shadow: 0px 2px 4px #1c1a19;

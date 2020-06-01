@@ -211,7 +211,10 @@ body p
             border-bottom: 3px solid #760001;
         }
 
-        
+	footer p 
+	{
+	    text-align:center
+	}        
         footer h1
         {
             text-decoration: underline;

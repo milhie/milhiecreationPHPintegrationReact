@@ -251,7 +251,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
     #menu a
     {
-        font-size: 1.5em;
+        font-size: 1.1em;
     }
 
     .menu-link {

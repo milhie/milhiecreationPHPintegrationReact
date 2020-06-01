@@ -24,24 +24,16 @@
                 <p>Je peux également créer des pièces sur mesure.</p>
                 <p>N'hésitez pas à prendre contact:<br/>
                     <br/><a href="https://www.facebook.com/Milhiecreation"><img src="images/facebook.png" alt="Facebook" title="ma page Facebook" /></a><a href="mailto:milhiecreation@gmail.com"><img src="images/enveloppe42.png" alt="Email" title="Email"></a><a href="https://twitter.com/milhie"><img src="images/twitter.png" alt="Twitter" title="Twitter" /></a><a href="https://www.instagram.com/MilhieCreation/"><img src="images/insta.jpg" alt="INSTA" title="instagram" /></a><a href="https://www.vinted.fr/membres/25925619-milhhie"><img src="images/vinted.jpg" alt="Vinted" title="Vinted" /></a><a href="https://www.etsy.com/fr/shop/MilhieCreation"><img src="images/etsy.jpg" alt="Etsy" title="Etsy" /></a>
-                    <br/>Ce site a été créé grace aux pécieux conseils <a href="https://openclassrooms.com"> d'openclassroom </a></p>
+                     <br/>Ce site a été créé grace aux pécieux conseils <a href="https://openclassrooms.com"> d'openclassroom </a> afin de m'entrainer au HTML, CSS, PHP, JS afin de preparer mon entrée à la <a href="https://www.wildcodeschool.com/fr-FR"> wild code school </a> de Toulouse</p>
             </div>
         </div>
         </div>
         <div id="ma_page_facebook" class="footerContentItem"> 
         	<div>
-			<h1><a href="https://www.facebook.com/Milhiecreation"> Ma page facebook </a></h1>
-			<p><a href="https://www.facebook.com/Milhiecreation/">Milhie Création</a></p>
+			<h1><a href="https://www.facebook.com/Milhiecreation" target="blanck"><img src="images/facebook.png" alt="Facebook" title="ma page facebook"/> Ma page facebook </a></h1>
+			<p><a href="https://www.facebook.com/Milhiecreation/" target="blanck">Milhie Création</a></p>
 			
         	</div>
-           <!-- <div id="fb-root"></div>
-        
-            <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v6.0"></script>
-
-            <h1><a href="https://www.facebook.com/Milhiecreation"> Ma page facebook </a></h1>
-
-            <div class="fb-page" data-href="https://www.facebook.com/Milhiecreation/" data-tabs="timeline" data-width="" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Milhiecreation/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Milhiecreation/">Milhie Création</a></blockquote></div>
-                        -->
         </div>
     
         <div id="ou_acheter" class="footerContentItem">

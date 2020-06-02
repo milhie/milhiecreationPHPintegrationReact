@@ -11,7 +11,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
         <link rel="manifest" href="https://php.milhie.fr/buildBijoux/buildBjxComplet/manifest.json">
-        <link href="https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.50935391.chunk.css" rel="stylesheet">
+        <link href="https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.792480f0.chunk.css" rel="stylesheet">
         <title>Milhie Création bijoux: pendentifs, colliers, bagues, boucles d'oreilles</title>
     </head>
 

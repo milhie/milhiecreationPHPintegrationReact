@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8f02a6e85138c654e4bc7bb0633517d",
+    "revision": "d7e58624e14bdb7e16fd98733a3e02fc",
     "url": "https://php.milhie.fr/buildBijoux/buildBjxComplet/index.html"
   },
   {
-    "revision": "2aa97dca9d160726ecd3",
-    "url": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.50935391.chunk.css"
+    "revision": "a89c921a022d97b351d5",
+    "url": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.792480f0.chunk.css"
   },
   {
     "revision": "0918df392f10b88c6ae0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2aa97dca9d160726ecd3",
+    "revision": "a89c921a022d97b351d5",
     "url": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.d401495d.chunk.js"
   },
   {

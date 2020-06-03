@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.792480f0.chunk.css",
-    "main.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.d401495d.chunk.js",
-    "main.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.d401495d.chunk.js.map",
+    "main.css": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.37891763.chunk.css",
+    "main.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.0e332240.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.0e332240.chunk.js.map",
     "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/runtime-main.8cb1a0ee.js",
     "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/runtime-main.8cb1a0ee.js.map",
     "static/js/2.512cf25b.chunk.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js",
     "static/js/2.512cf25b.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js.map",
     "index.html": "https://php.milhie.fr/buildBijoux/buildBjxComplet/index.html",
-    "precache-manifest.2f0208c5cf0274ce4a82531b022b4686.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/precache-manifest.2f0208c5cf0274ce4a82531b022b4686.js",
+    "precache-manifest.0681c547e3cefa63b0c87e6a723b5c04.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/precache-manifest.0681c547e3cefa63b0c87e6a723b5c04.js",
     "service-worker.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/service-worker.js",
-    "static/css/main.792480f0.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.792480f0.chunk.css.map",
+    "static/css/main.37891763.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.37891763.chunk.css.map",
     "static/js/2.512cf25b.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8cb1a0ee.js",
     "static/js/2.512cf25b.chunk.js",
-    "static/css/main.792480f0.chunk.css",
-    "static/js/main.d401495d.chunk.js"
+    "static/css/main.37891763.chunk.css",
+    "static/js/main.0e332240.chunk.js"
   ]
 }

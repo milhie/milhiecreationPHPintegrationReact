@@ -156,6 +156,7 @@ TABLETTE
 	.contentitem h2
 	{
 		font-size:4em;
+		text-decoration:underline;
 	}
         .contentitem p
         {
@@ -167,4 +168,17 @@ TABLETTE
            font-size: 1.2em;
         }
 }
+
+/*************************************************************************
+************************************************************************
+Affichage mobile
+***********************************************************************
+*************************************************************************/
+@media (max-width:1024px){	
+	#decosMurales img, #autres img, #decoMariage img, #piegesReves img, 
+	#rings img, #boucles img, #manchettes img, #bracelets img, #braceletsFins img, #lytotherapie img,
+	#porteBjx img, #Windows img
+	{
+	    width: 100%;
+	}
 }

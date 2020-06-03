@@ -80,9 +80,10 @@ body p
         display: flex;
         flex-direction: column;
         position: absolute;
-        width:99vw;
+        width:98%;
         height: 100%;/*hauteur maximale de ma page*/
-        padding: 0;
+        padding: 1em;
+        margin:auto;
     }
 
         /***********************************************************************
@@ -375,7 +376,7 @@ DESKTOP
     {
         top:25em;
         left: 0;
-        width:auto;
+        width:99%;
         /*background: orange;*/
         padding: 1em;
         display: flex;
@@ -383,7 +384,8 @@ DESKTOP
     }
     #element
     {
-        height: auto;    
+        height: auto;
+        width:100%;    
     }
     #logo img 
     {

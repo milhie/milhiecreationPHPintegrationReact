@@ -45,7 +45,7 @@
         
                 <nav>
                     <ul id="index">
-                        <li id="bijoux" class="item"><p> <a href="bijoux.php" class="bouton">Bijoux <img src="images/flecheblanchedroite.png" alt="" class="fleche" /></a></p></li>
+                        <li id="bijoux" class="item"><p> <a href="bijoux2.php" class="bouton">Bijoux <img src="images/flecheblanchedroite.png" alt="" class="fleche" /></a></p></li>
                             
                         <li id="arbres_de_vie" class="item"> <p><a href="arbres_de_vie.php" class="bouton">Arbres de vie  <img src="images/flecheblanchedroite.png" alt="" class="fleche"/></a> </p></li>
 

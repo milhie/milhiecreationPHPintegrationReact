@@ -13,6 +13,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
         <link rel="manifest" href="https://php.milhie.fr/buildBijoux/buildBjxComplet/manifest.json">
         <link rel="shortcut icon" href="https://php.milhie.fr/buildBijoux/buildBjxComplet/favicon.ico">
+        <link href="https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.166469f1.chunk.css" rel="stylesheet"><
         <title>Milhie Création bijoux: pendentifs, colliers, bagues, boucles d'oreilles</title>
     </head>
 

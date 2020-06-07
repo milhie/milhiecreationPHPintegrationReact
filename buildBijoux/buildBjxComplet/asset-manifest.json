@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.166469f1.chunk.css",
+    "main.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.0c3b5dc6.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/main.0c3b5dc6.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/runtime-main.8cb1a0ee.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/runtime-main.8cb1a0ee.js.map",
+    "static/js/2.512cf25b.chunk.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js",
+    "static/js/2.512cf25b.chunk.js.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildBijoux/buildBjxComplet/index.html",
+    "precache-manifest.aa55fe31603fb8b49fd48aebb68a3d03.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/precache-manifest.aa55fe31603fb8b49fd48aebb68a3d03.js",
+    "service-worker.js": "https://php.milhie.fr/buildBijoux/buildBjxComplet/service-worker.js",
+    "static/css/main.166469f1.chunk.css.map": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/css/main.166469f1.chunk.css.map",
+    "static/js/2.512cf25b.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildBijoux/buildBjxComplet/static/js/2.512cf25b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cb1a0ee.js",
+    "static/js/2.512cf25b.chunk.js",
+    "static/css/main.166469f1.chunk.css",
+    "static/js/main.0c3b5dc6.chunk.js"
+  ]
+}

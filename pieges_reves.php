@@ -10,7 +10,9 @@
         <link rel="stylesheet" type="text/css" href="stylebase.css">
         <link rel="shortcut icon" href="images/favicon.ico">
         <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">        
+        <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
+        <link rel="manifest" href="https://php.milhie.fr/buildDreamcatcher/manifest.json">
+        <link href="https://php.milhie.fr/buildDreamcatcher/static/css/main.8f2ebe37.chunk.css" rel="stylesheet">       
         <title>Milhie Création pièges à rêve</title>
     </head>
 
@@ -32,86 +34,7 @@
                 <article class="contentitem">
                     <h2 class="titre">Créations en perles et fils d'aluminium</h2>
     
-                    <header>
-                        <h2 class="epingle"><img src="images/ico_epingle.png" alt="" class="ico_categorie" />Pièges à rêve</h2>
-                    </header>
-
-                    <nav>
-                        
-                        <div class="Diapos">
-                            <header class="description">
-                                <h2>Dreamcatcher</h2>
-                                <p>Ces modèles sont pour la plupart des exemples de créations, ils sont disponibles à la commande. N'hésitez pas à <a href="mailto:milhiecreation@gmail.com">me contacter. </a></p>
-                            </header>
-
-                            <ul class="diapo" id="piegesReves">
-                                <li class="item">
-                                	<h2>Piège à rêve N°1:</h2>
-                                	<p>35€</p>
-                                	<img src="images/piegesReves/piege.jpeg" alt="piege à reve fait main"/>
-                                	<p>
-                                		Diametre: 30cm
-                                		<br/>Sur Commande
-                                	</p>
-                                <li class="item">
-                                	<h2>Piège à rêve N°2:</h2>
-                                	<p> 35€</p>
-                                	<img src="images/piegesReves/piege01.jpeg" alt"piege à reve fait main"/>
-                                	<p>
-                                		Diametre: 30cm
-                                		<br/>Sur Commande
-                                	</p>
-                                </li>
-                                <li class="item">
-                                	<h2>Piège à rêve N°3:</h2>
-                                	<p>35€</p>
-                                	<img src="images/piegesReves/piege02.jpeg" alt="piège à rêve fait main"/>
-                                	<p>
-                                		Diametre: 30cm
-                                		<br/>
-                                		Sur Commande
-                                	</p>
-                                </li>
-                                <li class="item">
-                                	<h2>Piège à rêve N°4:</h2>
-                                	<p>18€</p>
-                                	<img src="images/piegesReves/piege03.jpeg" alt"piege à rêve fait main"/>
-                                	<p>Petit attrape rêve fait main. Fil aluminium, fil de coton, perles en verre et plumes naturelles.
-                                		<br/>
-                                		Environ 20 cm de hauteur.
-                                		<br/>
-                                		<a href="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main">Disponible</a>
-                                	</p>
-                                </li>
-                                <li class="item">
-                                	<h2>Piège à rêve N°5:</h2>
-                                	<p>15€</p>
-                                	<img src="images/piegesReves/piege04.jpeg" alt="piège à rêve fait main"/>
-                                	<p>Petit attrape rêve fait main
-                	                	<br/>Diamètre: 20cm
-                        	        	<br/>Fil de coton marron, arbre de vie en fil d'aluminium. Plumes naturelles.
-                                		<br/><a href="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve">Disponible</a>
-                                	</p>
-                                </li>
-                                <!--
-                                <li class="item">
-                                	<h2>Piège à rêve n°6:</h2>
-                                	<p>15€</p>
-					<img src="images/piegesReves/piege04.jpeg" alt="piège à rêve fait main"/>
-                                	<p>Petit piège à rêve fait main
-		                                <br/>Diamètre: 20cm
-                		                <br/>Fil de coton bleu ciel et bleu-vert pour le centre, perles en verre et hématite au centre. Plumes synthétiques.
-                                		<br/><a href="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve">Disponible</a>
-                                	</p>
-	                                <img src="images/piegesReves/piege04.jpeg" alt="piege à rêve"/>
-	                        </li>
-                                <li class="item"> </li>
-                                <li class="item"> </li>
-                                <li class="item"> </li>
-                                <li class="item"> </li>-->
-                            </ul>
-                        </div>
-                    </nav>
+                    <noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script>!function(e){function t(t){for(var n,l,i=t[0],p=t[1],a=t[2],c=0,s=[];c<i.length;c++)l=i[c],Object.prototype.hasOwnProperty.call(o,l)&&o[l]&&s.push(o[l][0]),o[l]=0;for(n in p)Object.prototype.hasOwnProperty.call(p,n)&&(e[n]=p[n]);for(f&&f(t);s.length;)s.shift()();return u.push.apply(u,a||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,i=1;i<r.length;i++){var p=r[i];0!==o[p]&&(n=!1)}n&&(u.splice(t--,1),e=l(l.s=r[0]))}return e}var n={},o={1:0},u=[];function l(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,l),r.l=!0,r.exports}l.m=e,l.c=n,l.d=function(e,t,r){l.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},l.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},l.t=function(e,t){if(1&t&&(e=l(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(l.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)l.d(r,n,function(t){return e[t]}.bind(null,n));return r},l.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return l.d(t,"a",t),t},l.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},l.p="https://php.milhie.fr/buildDreamcatcher/";var i=this.webpackJsonpmenubijouxonglets=this.webpackJsonpmenubijouxonglets||[],p=i.push.bind(i);i.push=t,i=i.slice();for(var a=0;a<i.length;a++)t(i[a]);var f=p;r()}([])</script><script src="https://php.milhie.fr/buildDreamcatcher/static/js/2.25586ae2.chunk.js"></script><script src="https://php.milhie.fr/buildDreamcatcher/static/js/main.1eddcb65.chunk.js"></script>
                 </article>
             </section>
 			

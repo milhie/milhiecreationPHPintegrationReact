@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildDreamcatcher/static/css/main.8f2ebe37.chunk.css",
+    "main.js": "https://php.milhie.fr/buildDreamcatcher/static/js/main.1eddcb65.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildDreamcatcher/static/js/main.1eddcb65.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildDreamcatcher/static/js/runtime-main.54cfce4d.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildDreamcatcher/static/js/runtime-main.54cfce4d.js.map",
+    "static/js/2.25586ae2.chunk.js": "https://php.milhie.fr/buildDreamcatcher/static/js/2.25586ae2.chunk.js",
+    "static/js/2.25586ae2.chunk.js.map": "https://php.milhie.fr/buildDreamcatcher/static/js/2.25586ae2.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildDreamcatcher/index.html",
+    "precache-manifest.317001aee3e11932f85a58710351a64c.js": "https://php.milhie.fr/buildDreamcatcher/precache-manifest.317001aee3e11932f85a58710351a64c.js",
+    "service-worker.js": "https://php.milhie.fr/buildDreamcatcher/service-worker.js",
+    "static/css/main.8f2ebe37.chunk.css.map": "https://php.milhie.fr/buildDreamcatcher/static/css/main.8f2ebe37.chunk.css.map",
+    "static/js/2.25586ae2.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildDreamcatcher/static/js/2.25586ae2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54cfce4d.js",
+    "static/js/2.25586ae2.chunk.js",
+    "static/css/main.8f2ebe37.chunk.css",
+    "static/js/main.1eddcb65.chunk.js"
+  ]
+}

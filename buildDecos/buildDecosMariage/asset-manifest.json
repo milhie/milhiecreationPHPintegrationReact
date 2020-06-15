@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/css/main.ac4b6b93.chunk.css",
+    "main.js": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/main.31751c63.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/main.31751c63.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/runtime-main.7dbbf279.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/runtime-main.7dbbf279.js.map",
+    "static/js/2.bc4c5746.chunk.js": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/2.bc4c5746.chunk.js",
+    "static/js/2.bc4c5746.chunk.js.map": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/2.bc4c5746.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildDecos/buildDecosMariage/index.html",
+    "precache-manifest.4ab69c9dbd674a7150ac8db3ffee7c06.js": "https://php.milhie.fr/buildDecos/buildDecosMariage/precache-manifest.4ab69c9dbd674a7150ac8db3ffee7c06.js",
+    "service-worker.js": "https://php.milhie.fr/buildDecos/buildDecosMariage/service-worker.js",
+    "static/css/main.ac4b6b93.chunk.css.map": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/css/main.ac4b6b93.chunk.css.map",
+    "static/js/2.bc4c5746.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildDecos/buildDecosMariage/static/js/2.bc4c5746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbbf279.js",
+    "static/js/2.bc4c5746.chunk.js",
+    "static/css/main.ac4b6b93.chunk.css",
+    "static/js/main.31751c63.chunk.js"
+  ]
+}

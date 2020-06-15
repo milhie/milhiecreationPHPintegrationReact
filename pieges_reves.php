@@ -45,17 +45,66 @@
                             </header>
 
                             <ul class="diapo" id="piegesReves">
-                                <li class="item"><p>Piège à rêve N°1: 35€<br/><br/>Diametre: 30cm<br/>Sur Commande</p><img src="images/piegesReves/piege.jpeg" alt=""> </li>
-                                <li class="item"><p>Piège à rêve N°2: 35€<br/><br/>Diametre: 30cm<br/>Sur Commande</p><img src="images/piegesReves/piege01.jpeg" alt=""> </li>
-                                <li class="item">Piège à rêve N°3: 35€<br/><br/>Diametre: 30cm<br/>Sur Commande<img src="images/piegesReves/piege02.jpeg" alt=""> </li>
-                                <li class="item">Piège à rêve N°4: 18€<br/> <br/>Petit attrape rêve fait main. Fil aluminium, fil de coton, perles en verre et plumes naturelles.
-                                <br/>Environ 20 cm de hauteur. 
-                                <br/><a href="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main">Disponible</a><img src="images/piegesReves/piege03.jpeg" alt=""> </li>
-                                <li class="item">Piège à rêve N°5: 15€<br/><br/>Petit attrape rêve fait main
-                                <br/>Diamètre: 20cm
-                                <br/>Fil de coton bleu ciel et bleu vert pour le centre, perles en verre  et hématite au centre. Plumes synthétiques.  <br/><a href="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve">Disponible</a><img src="images/piegesReves/piege04.jpeg" alt=""> </li>
+                                <li class="item">
+                                	<h2>Piège à rêve N°1:</h2>
+                                	<p>35€</p>
+                                	<img src="images/piegesReves/piege.jpeg" alt="piege à reve fait main"/>
+                                	<p>
+                                		Diametre: 30cm
+                                		<br/>Sur Commande
+                                	</p>
+                                <li class="item">
+                                	<h2>Piège à rêve N°2:</h2>
+                                	<p> 35€</p>
+                                	<img src="images/piegesReves/piege01.jpeg" alt"piege à reve fait main"/>
+                                	<p>
+                                		Diametre: 30cm
+                                		<br/>Sur Commande
+                                	</p>
+                                </li>
+                                <li class="item">
+                                	<h2>Piège à rêve N°3:</h2>
+                                	<p>35€</p>
+                                	<img src="images/piegesReves/piege02.jpeg" alt="piège à rêve fait main"/>
+                                	<p>
+                                		Diametre: 30cm
+                                		<br/>
+                                		Sur Commande
+                                	</p>
+                                </li>
+                                <li class="item">
+                                	<h2>Piège à rêve N°4:</h2>
+                                	<p>18€</p>
+                                	<img src="images/piegesReves/piege03.jpeg" alt"piege à rêve fait main"/>
+                                	<p>Petit attrape rêve fait main. Fil aluminium, fil de coton, perles en verre et plumes naturelles.
+                                		<br/>
+                                		Environ 20 cm de hauteur.
+                                		<br/>
+                                		<a href="https://www.vinted.fr/femmes/accessoires-autres-accessoires/246854940-petit-attrape-reve-avec-arbre-de-vie-fait-main">Disponible</a>
+                                	</p>
+                                </li>
+                                <li class="item">
+                                	<h2>Piège à rêve N°5:</h2>
+                                	<p>15€</p>
+                                	<img src="images/piegesReves/piege04.jpeg" alt="piège à rêve fait main"/>
+                                	<p>Petit attrape rêve fait main
+                	                	<br/>Diamètre: 20cm
+                        	        	<br/>Fil de coton marron, arbre de vie en fil d'aluminium. Plumes naturelles.
+                                		<br/><a href="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve">Disponible</a>
+                                	</p>
+                                </li>
                                 <!--
-                                <li class="item"> </li>
+                                <li class="item">
+                                	<h2>Piège à rêve n°6:</h2>
+                                	<p>15€</p>
+					<img src="images/piegesReves/piege04.jpeg" alt="piège à rêve fait main"/>
+                                	<p>Petit piège à rêve fait main
+		                                <br/>Diamètre: 20cm
+                		                <br/>Fil de coton bleu ciel et bleu-vert pour le centre, perles en verre et hématite au centre. Plumes synthétiques.
+                                		<br/><a href="https://www.vinted.fr/femmes/sacs-autres/247948481-attrape-reve">Disponible</a>
+                                	</p>
+	                                <img src="images/piegesReves/piege04.jpeg" alt="piege à rêve"/>
+	                        </li>
                                 <li class="item"> </li>
                                 <li class="item"> </li>
                                 <li class="item"> </li>

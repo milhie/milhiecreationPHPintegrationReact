@@ -35,12 +35,13 @@
             <p id="photo_profil"><img src="images/photo_profil_mini.jpeg" alt="Photo" /></p>
         	<p>Laissez-moi le temps de me présenter: je m'appelle Emilie, j'habite la région Toulousaine.</p>
         	<p>Passionnée de loisirs créatifs, je profite de ce site pour vous faire partager ma passion et mes créations que je vends afin de faire de la place sur mes étagères pour pouvoir en créer de nouvelles...</p>
-    		<p>Ce site est également un moyen pour moi de m'entrainer à la création de site web en HTML, CSS et maintenant PHP...</p>
+    		<p>Ce site est également un moyen pour moi de m'entrainer à la création de site web en HTML, CSS et maintenant PHP et JS...</p>
     		<p>La plupart des créations présentes sur ce site sont disponibles à la commande.</p>
         	<p>Je peux également créer des pièces sur mesure.</p>
-        	<p>N'hésitez pas à prendre contact
+        	<p>N'hésitez pas à prendre contact:
+        	
     			<br/><a href="https://www.facebook.com/Milhiecreation"><img src="images/facebook.png" alt="Facebook" title="ma page Facebook" /></a><a href="mailto:milhiecreation@gmail.com"><img src="images/enveloppe42.png" alt="Email" title="Email"></a><a href="https://twitter.com/milhie"><img src="images/twitter.png" alt="Twitter" title="Twitter" /></a><a href="https://www.instagram.com/MilhieCreation/"><img src="images/insta.jpg" alt="instagram" title="instagram" /></a><a href="https://www.vinted.fr/membres/25925619-milhhie"><img src="images/vinted.jpg" alt="Vinted" title="Vinted" /></a><a href="https://www.etsy.com/fr/shop/MilhieCreation"><img src="images/etsy.jpg" alt="Etsy" title="Etsy" /></a>
-    			<br/>Ce site a été créé grace aux précieux conseils <a href="https://openclassroom.com"> d'openclassroom </a>  afin de m'entrainer au HTML, CSS, PHP, JS, etc.. afin de préparer ma rentrée à la <a href="https://www.wildcodeschool.com/fr-FR">wild code school </a>de Toulouse. </p>
+    			<br/>Ce site a été créé afin de préparer ma rentrée à la <a href="https://www.wildcodeschool.com/fr-FR">wild code school</a> de Toulouse. </p>
     			
   		</div>
 	</div>

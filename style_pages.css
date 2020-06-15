@@ -87,7 +87,7 @@
                                 border: solid black;
                                 border-radius: 1em;
                                 font-size: 1.4em;
-                                width: 20em;
+                                width: 35em;
                                 height: max-content;
                             }
                              .contentitem nav#pendents div ul .item, nav.navigation div ul .item
@@ -108,7 +108,7 @@
                                     #rings img, #boucles img, #manchettes img, #bracelets img, #braceletsFins img, #lytotherapie img,
                                     #porteBjx img, #Windows img
                                     {
-                                        width: 15em;
+                                        width: 25em;
                                         border:solid black;
                                         border-radius: 1em;
                                         margin: auto;

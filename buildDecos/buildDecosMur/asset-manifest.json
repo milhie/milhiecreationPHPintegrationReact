@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://php.milhie.fr/buildDecos/buildDecosMur/static/css/main.cc26104e.chunk.css",
+    "main.js": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/main.65662843.chunk.js",
+    "main.js.map": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/main.65662843.chunk.js.map",
+    "runtime-main.js": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/runtime-main.905e22b7.js",
+    "runtime-main.js.map": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/runtime-main.905e22b7.js.map",
+    "static/js/2.25586ae2.chunk.js": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/2.25586ae2.chunk.js",
+    "static/js/2.25586ae2.chunk.js.map": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/2.25586ae2.chunk.js.map",
+    "index.html": "https://php.milhie.fr/buildDecos/buildDecosMur/index.html",
+    "precache-manifest.38331167cfa83b293ee6b895595b6108.js": "https://php.milhie.fr/buildDecos/buildDecosMur/precache-manifest.38331167cfa83b293ee6b895595b6108.js",
+    "service-worker.js": "https://php.milhie.fr/buildDecos/buildDecosMur/service-worker.js",
+    "static/css/main.cc26104e.chunk.css.map": "https://php.milhie.fr/buildDecos/buildDecosMur/static/css/main.cc26104e.chunk.css.map",
+    "static/js/2.25586ae2.chunk.js.LICENSE.txt": "https://php.milhie.fr/buildDecos/buildDecosMur/static/js/2.25586ae2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.905e22b7.js",
+    "static/js/2.25586ae2.chunk.js",
+    "static/css/main.cc26104e.chunk.css",
+    "static/js/main.65662843.chunk.js"
+  ]
+}

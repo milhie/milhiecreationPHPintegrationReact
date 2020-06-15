@@ -11,6 +11,8 @@
         <link rel="shortcut icon" href="images/favicon.ico">
         <link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
+        <link rel="manifest" href="https://php.milhie.fr/buildDecos/buildDecosMur/manifest.json">
+        <link href="https://php.milhie.fr/buildDecos/buildDecosMur/static/css/main.cc26104e.chunk.css" rel="stylesheet">
         <title>MilhieCréation décorations chambre d'enfants</title>
     </head>
 
@@ -37,95 +39,7 @@
 
                     <!--<h2 class="titre">Créations en perle et fil d'aluminium, bijoux, décorations, pièges à rêves, arbres de vie , lytothérapie. </h2>-->
 
-                    <header>
-                        <h2 class="epingle"><img src="images/ico_epingle.png" alt="Accueil" class="ico_categorie" />Décorations pour chambre d'enfant </h2>
-                    </header>
-                        
-                    <nav>
-                        
-                        <div class="Diapos">
-                            <header class="description">
-                                <h2>Décorations murale:</h2>
-                                <p><br/>Mes décorations murales sont en fil d'aluminium. <p/> 
-                                <p>Chaque pièce est unique et totalement personnalisable.</p>
-                                
-                                <p>N'hésitez pas à me contacter, tous les thèmes sont possibles.</p>
-
-                                <p>Voici quelques exemples sur des thèmes différents, les dinosaures, pompiers, bateau pirate, chateaux forts ou chateaux de princesse etc... </p>
-                                
-                                <p>Le prix est noté à coté de chaques photos, il dépend des options choisies.</p>
-                                
-                                <p>Pour plus d'informations <a href="mailto:milhiecreation@gmail.com">me contacter. </a></p>
-                            </header>
-                            
-                            <ul class="diapo" id="decosMurales">
-                                <li class="item">
-                                    <p><span>Dinosaures:</span></p> 
-                                    <p>3O€</p>
-                                    <img src="images/decosMurales/decoDino1.jpeg" alt="Décoration murale dinosaures"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Dinosaures:</span></p> 
-                                    <p>3O€</p>
-                                    <img src="images/decosMurales/decoDino2.jpeg" alt="Décoration murale dinosaures"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Chateau de princesse:</span></p> 
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/decoChateauPrincess.jpeg" alt="decoration murale chateau de princesse"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Chateau fort:</span></p> 
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/decoChateauFort.jpeg" alt="decoration murale chateau fort"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Camion de pompiers:</span></p> 
-                                    <p>25€</p>
-                                    <img src="images/decosMurales/decoPompier.jpeg" alt="decoration murale Camion de pompiers"/>
-                                </li>
-                         
-                                <li class="item">
-                                    <p><span>Nuage:</span></p> 
-                                    <p>20€</p>
-                                    <img src="images/decosMurales/decoNuage.png" alt="decoration murale nuage"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Bateau pirates:</span></p> 
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/bateauPirate.jpeg" alt="decoration murale bateau pirate"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Loup:</span></p> 
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/loup.png" alt="decoration murale loup"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Chat dans les étoiles:</span></p> 
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/chat.jpeg" alt=" décoration murale chat dans les étoiles"/>
-                                </li>
-                         
-                                <li class="item">
-                                    <p><span>Vélo:</span> </p>
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/velo.jpeg" alt="Décoration murale Vélo"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>Coeur:</span><br/>déco de porte: </p>
-                                    <p>15€</p>
-                                    <img src="images/decosMurales/coeur.jpeg" alt="decoration murale coeur"/>
-                                </li>
-                                <li class="item">
-                                    <p><span>"fanArt" buzz l'éclair:</span><p/>
-                                    <p>30€</p>
-                                    <img src="images/decosMurales/buzz.png" alt="decoration murale fanart buzz l'eclair"/></li>
-                                <li class="item">
-                                    <p></p>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
+                    <noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script>!function(e){function t(t){for(var n,l,i=t[0],p=t[1],f=t[2],c=0,s=[];c<i.length;c++)l=i[c],Object.prototype.hasOwnProperty.call(o,l)&&o[l]&&s.push(o[l][0]),o[l]=0;for(n in p)Object.prototype.hasOwnProperty.call(p,n)&&(e[n]=p[n]);for(a&&a(t);s.length;)s.shift()();return u.push.apply(u,f||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,i=1;i<r.length;i++){var p=r[i];0!==o[p]&&(n=!1)}n&&(u.splice(t--,1),e=l(l.s=r[0]))}return e}var n={},o={1:0},u=[];function l(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,l),r.l=!0,r.exports}l.m=e,l.c=n,l.d=function(e,t,r){l.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},l.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},l.t=function(e,t){if(1&t&&(e=l(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(l.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)l.d(r,n,function(t){return e[t]}.bind(null,n));return r},l.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return l.d(t,"a",t),t},l.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},l.p="https://php.milhie.fr/buildDecos/buildDecosMur/";var i=this.webpackJsonpmenubijouxonglets=this.webpackJsonpmenubijouxonglets||[],p=i.push.bind(i);i.push=t,i=i.slice();for(var f=0;f<i.length;f++)t(i[f]);var a=p;r()}([])</script><script src="https://php.milhie.fr/buildDecos/buildDecosMur/static/js/2.25586ae2.chunk.js"></script><script src="https://php.milhie.fr/buildDecos/buildDecosMur/static/js/main.65662843.chunk.js"></script>
                 </article>
             </section>
                     

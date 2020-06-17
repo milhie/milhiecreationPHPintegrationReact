@@ -18,7 +18,6 @@
     </head>
 
     <body>
-
         <section id="page">
             <div id="element">
                 <header id="title">

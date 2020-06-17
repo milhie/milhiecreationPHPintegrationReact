@@ -14,6 +14,6 @@
 .containerSlide img{width:100%}
 .slideshow,.slideshowMedium,.slideshowSmall{margin:1em;display:flex;flex-wrap:wrap;justify-content:space-around}
 #reference{font-size:.8em;font-family:"Times New Roman",Times,serif;text-align:left}
-@media (max-width:1024px){.containerSlide{width:90vw}}
+@media (max-width:1280px){.containerSlide{width:90vw}}
 
 /*# sourceMappingURL=main.10d0a746.chunk.css.map */

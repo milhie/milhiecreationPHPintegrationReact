@@ -101,7 +101,7 @@ body p
 
             #title /*header*/
             {
-                width: 90%;
+                width: 97%;
                 margin: auto;
                 
                 top: 0;
@@ -308,13 +308,18 @@ TABLETTE
     {
         position: absolute;
     }
-    #main
+    #main, footer
     {
-        top: 15em;
+        top: 8em;
         /*background: yellow;*/
-        left:18em;
-        padding-right: 20em;
-        width: auto;
+        left:19em;
+        padding-right:15em;
+        width: 70%;
+    }
+
+    #title
+    {
+    	position:fixed;
     }
     
     #element 
@@ -322,7 +327,6 @@ TABLETTE
         height: 0;
     }
         
-    
     
 
 }
@@ -376,7 +380,7 @@ DESKTOP
     {
         top:25em;
         left: 0;
-        width:99%;
+        width:inherit;
         /*background: orange;*/
         padding: 1em;
         display: flex;
@@ -400,7 +404,9 @@ DESKTOP
     }
     footer
     {
-        top: 23em;
+        top: 25em;
+        left:0;
+        width:100%;
     }   
     
 

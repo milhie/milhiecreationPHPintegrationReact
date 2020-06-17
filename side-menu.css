@@ -201,14 +201,17 @@ small screens.
 /*
 Hides the menu at `48em`, but modify this based on your app's needs.
 */
+@media (max-width:1280px){
+	#layout{
+		position:fixed;
+		}
+}
 @media (min-width: 1024px) {
-
-    
-
 
     #layout {
         padding-left: 150px; /* left col width "#menu" */
         left: 0;
+        top:15em;
     }
     #menu {
         left: 150px;
@@ -239,6 +242,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         /*width: 100%;*/
         padding-left: 150px; /* left col width "#menu" */
         left: 0;
+        top:10em;
     }
     #menu {
         left: 150px;

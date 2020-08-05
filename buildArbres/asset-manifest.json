@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/buildArbres/static/css/main.b49a528d.chunk.css",
+    "main.js": "/buildArbres/static/js/main.4a8a1dc9.chunk.js",
+    "main.js.map": "/buildArbres/static/js/main.4a8a1dc9.chunk.js.map",
+    "runtime-main.js": "/buildArbres/static/js/runtime-main.1426cb10.js",
+    "runtime-main.js.map": "/buildArbres/static/js/runtime-main.1426cb10.js.map",
+    "static/css/2.043b003d.chunk.css": "/buildArbres/static/css/2.043b003d.chunk.css",
+    "static/js/2.9f7d544f.chunk.js": "/buildArbres/static/js/2.9f7d544f.chunk.js",
+    "static/js/2.9f7d544f.chunk.js.map": "/buildArbres/static/js/2.9f7d544f.chunk.js.map",
+    "index.html": "/buildArbres/index.html",
+    "precache-manifest.42cd30b115a6a8a23256b7fe4adcc7f3.js": "/buildArbres/precache-manifest.42cd30b115a6a8a23256b7fe4adcc7f3.js",
+    "service-worker.js": "/buildArbres/service-worker.js",
+    "static/css/2.043b003d.chunk.css.map": "/buildArbres/static/css/2.043b003d.chunk.css.map",
+    "static/css/main.b49a528d.chunk.css.map": "/buildArbres/static/css/main.b49a528d.chunk.css.map",
+    "static/js/2.9f7d544f.chunk.js.LICENSE.txt": "/buildArbres/static/js/2.9f7d544f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1426cb10.js",
+    "static/css/2.043b003d.chunk.css",
+    "static/js/2.9f7d544f.chunk.js",
+    "static/css/main.b49a528d.chunk.css",
+    "static/js/main.4a8a1dc9.chunk.js"
+  ]
+}

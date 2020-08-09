@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://milhiecreation.milhie.fr/buildArbres/precache-manifest.373ead06a05d9133a659d461c7841b8d.js"
+  "https://milhiecreation.milhie.fr/buildArbres/precache-manifest.3a607c2f8941a4ebb6e3f41732d3d7a4.js"
 );
 
 self.addEventListener('message', (event) => {
